@@ -72,7 +72,7 @@ export default function GetContact({ deleteUser, updateUser }) {
                 data-bs-target="#addEmployeeModal"
               >
                 <i className="material-icons">&#xE147;</i>
-                <span>Add New Contact</span>
+                <span>Add</span>
               </button>
             </div>
           </div>

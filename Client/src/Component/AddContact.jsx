@@ -56,7 +56,7 @@ export default function AddContact() {
                 <div className="modal-content">
                     <form onSubmit={handleSubmit}>
                         <div className="modal-header">
-                            <h4 className="modal-title">Add Employee</h4>
+                            <h4 className="modal-title">Add User</h4>
                             <button type="button" className="close" data-bs-dismiss="modal" aria-hidden="true" ref={closeRef}>&times;</button>
                         </div>
                         <div className="modal-body">
